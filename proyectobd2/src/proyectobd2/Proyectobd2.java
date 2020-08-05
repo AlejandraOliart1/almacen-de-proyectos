@@ -17,6 +17,7 @@ public class Proyectobd2 {
     public static void main(String[] args) {
         // TODO code application logic here
         int x=2;
+        System.out.println("el valor es"+x);
     }
     
 }
